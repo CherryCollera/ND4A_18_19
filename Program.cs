@@ -3,18 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Paramiterize_PangilinanJunio
+namespace PrivateConstructor_PangilinanJunio
 {
     class Program
     {
         static void Main(string[] args)
-
         {
-            Console.WriteLine("Parameterized Constructors");
-            Console.WriteLine("");
-            sample s = new sample("Pangilinan, Reineth ", "Junio, Mary Joyce Vincel ");
-            Console.WriteLine(s.firstname);
-            Console.WriteLine(s.secondname);
+            
+            Sample s = new Sample(" Pangilinan, Reineth ", " Junio, Mary joyce vincel ");
+       
+            Console.WriteLine("\n" + s.firstname + "\n\n" + s.secondname);
             Console.ReadLine();
         }
     }
