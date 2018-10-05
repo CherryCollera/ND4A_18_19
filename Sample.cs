@@ -3,21 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace StaticConstructor_PangilinanJunio
+namespace UsingStaticConstructor_PangilinanJunio
 {
     class Sample
     {
         public string firstname, secondname;
-        static Sample()
+        public Sample() 
         {
-            System.Console.WriteLine("Static Constructor");
-        }
-
-        public Sample()
-        {
-
-            firstname = "Pangilinan, Reineth";
-            secondname = "Junio, Mary Joyce Vincel";
+            firstname = " Pangilinan Reineth";
+            secondname = " Junio Mary Joyce Vincel";
         }
     }
 }
