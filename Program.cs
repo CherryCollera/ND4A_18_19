@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PrivateConstructor_PangilinanJunio
+namespace StaticConstructor_PangilinanJunio
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            Sample s = new Sample(" Pangilinan, Reineth ", " Junio, Mary joyce vincel ");
-       
-            Console.WriteLine("\n" + s.firstname + "\n\n" + s.secondname);
+            Sample s = new Sample();
+            Sample s1 = new Sample();
+
+            Console.WriteLine(s1.firstname + "" + s1.secondname);
             Console.ReadLine();
+
         }
     }
 }

@@ -3,21 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PrivateConstructor_PangilinanJunio
+namespace StaticConstructor_PangilinanJunio
 {
     class Sample
     {
-    public string firstname, secondname;
-        public Sample(string r, string v)
+        public string firstname, secondname;
+        static Sample()
         {
-            firstname = r;
-            secondname = v;
+            System.Console.WriteLine("Static Constructor");
         }
 
-        private Sample()
+        public Sample()
         {
 
-            Console.WriteLine(" Private Constructor with no prameters");
+            firstname = "Pangilinan, Reineth";
+            secondname = "Junio, Mary Joyce Vincel";
         }
     }
 }
