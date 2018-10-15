@@ -1,0 +1,4 @@
+C:\Users\john kenneth alkonga\Documents\Visual Studio 2010\Projects\UsingConstructor_MORALES_CRUZMI\ConstructorOverloading_MORALES_CRUZMI\bin\Debug\ConstructorOverloading_MORALES_CRUZMI.exe
+C:\Users\john kenneth alkonga\Documents\Visual Studio 2010\Projects\UsingConstructor_MORALES_CRUZMI\ConstructorOverloading_MORALES_CRUZMI\bin\Debug\ConstructorOverloading_MORALES_CRUZMI.pdb
+C:\Users\john kenneth alkonga\Documents\Visual Studio 2010\Projects\UsingConstructor_MORALES_CRUZMI\ConstructorOverloading_MORALES_CRUZMI\obj\x86\Debug\ConstructorOverloading_MORALES_CRUZMI.exe
+C:\Users\john kenneth alkonga\Documents\Visual Studio 2010\Projects\UsingConstructor_MORALES_CRUZMI\ConstructorOverloading_MORALES_CRUZMI\obj\x86\Debug\ConstructorOverloading_MORALES_CRUZMI.pdb

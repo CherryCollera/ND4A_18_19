@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingConstructor_MORALES_CRUZMI", "UsingConstructor_MORALES_CRUZMI\UsingConstructor_MORALES_CRUZMI.csproj", "{1F7F2677-0563-4C04-A435-5FD331413607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyConstructor_MORALES_CRUZMI", "CopyConstructor_MORALES_CRUZMI\CopyConstructor_MORALES_CRUZMI.csproj", "{55BA637A-D6D8-434B-9965-71389F610AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorOverloading_MORALES_CRUZMI", "ConstructorOverloading_MORALES_CRUZMI\ConstructorOverloading_MORALES_CRUZMI.csproj", "{2F02F500-D811-430F-B813-C89E8FC77753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterizeConstructor_MORALES_CRUZMI", "ParameterizeConstructor_MORALES_CRUZMI\ParameterizeConstructor_MORALES_CRUZMI.csproj", "{AB55A010-E8E8-45D9-8AD8-C5D4B43408DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructor_MORALES_CRUZMI", "StaticConstructor_MORALES_CRUZMI\StaticConstructor_MORALES_CRUZMI.csproj", "{5E99252A-4195-43A7-BBC0-5754F234483D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateConstructor_MORALES_CRUZMI", "PrivateConstructor_MORALES_CRUZMI\PrivateConstructor_MORALES_CRUZMI.csproj", "{40A4EBAB-0DD6-4464-86EF-9E84545BD036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChosenConstructorStatic", "ChosenConstructorStatic\ChosenConstructorStatic.csproj", "{FEB74A99-93F5-4539-AEB5-E6BFD0669735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7F2677-0563-4C04-A435-5FD331413607}.Debug|x86.ActiveCfg = Debug|x86
+		{1F7F2677-0563-4C04-A435-5FD331413607}.Debug|x86.Build.0 = Debug|x86
+		{1F7F2677-0563-4C04-A435-5FD331413607}.Release|x86.ActiveCfg = Release|x86
+		{1F7F2677-0563-4C04-A435-5FD331413607}.Release|x86.Build.0 = Release|x86
+		{55BA637A-D6D8-434B-9965-71389F610AC6}.Debug|x86.ActiveCfg = Debug|x86
+		{55BA637A-D6D8-434B-9965-71389F610AC6}.Debug|x86.Build.0 = Debug|x86
+		{55BA637A-D6D8-434B-9965-71389F610AC6}.Release|x86.ActiveCfg = Release|x86
+		{55BA637A-D6D8-434B-9965-71389F610AC6}.Release|x86.Build.0 = Release|x86
+		{2F02F500-D811-430F-B813-C89E8FC77753}.Debug|x86.ActiveCfg = Debug|x86
+		{2F02F500-D811-430F-B813-C89E8FC77753}.Debug|x86.Build.0 = Debug|x86
+		{2F02F500-D811-430F-B813-C89E8FC77753}.Release|x86.ActiveCfg = Release|x86
+		{2F02F500-D811-430F-B813-C89E8FC77753}.Release|x86.Build.0 = Release|x86
+		{AB55A010-E8E8-45D9-8AD8-C5D4B43408DE}.Debug|x86.ActiveCfg = Debug|x86
+		{AB55A010-E8E8-45D9-8AD8-C5D4B43408DE}.Debug|x86.Build.0 = Debug|x86
+		{AB55A010-E8E8-45D9-8AD8-C5D4B43408DE}.Release|x86.ActiveCfg = Release|x86
+		{AB55A010-E8E8-45D9-8AD8-C5D4B43408DE}.Release|x86.Build.0 = Release|x86
+		{5E99252A-4195-43A7-BBC0-5754F234483D}.Debug|x86.ActiveCfg = Debug|x86
+		{5E99252A-4195-43A7-BBC0-5754F234483D}.Debug|x86.Build.0 = Debug|x86
+		{5E99252A-4195-43A7-BBC0-5754F234483D}.Release|x86.ActiveCfg = Release|x86
+		{5E99252A-4195-43A7-BBC0-5754F234483D}.Release|x86.Build.0 = Release|x86
+		{40A4EBAB-0DD6-4464-86EF-9E84545BD036}.Debug|x86.ActiveCfg = Debug|x86
+		{40A4EBAB-0DD6-4464-86EF-9E84545BD036}.Debug|x86.Build.0 = Debug|x86
+		{40A4EBAB-0DD6-4464-86EF-9E84545BD036}.Release|x86.ActiveCfg = Release|x86
+		{40A4EBAB-0DD6-4464-86EF-9E84545BD036}.Release|x86.Build.0 = Release|x86
+		{FEB74A99-93F5-4539-AEB5-E6BFD0669735}.Debug|x86.ActiveCfg = Debug|x86
+		{FEB74A99-93F5-4539-AEB5-E6BFD0669735}.Debug|x86.Build.0 = Debug|x86
+		{FEB74A99-93F5-4539-AEB5-E6BFD0669735}.Release|x86.ActiveCfg = Release|x86
+		{FEB74A99-93F5-4539-AEB5-E6BFD0669735}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
